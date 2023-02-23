@@ -1,0 +1,26 @@
+{
+  "name": "test123",
+  "version": "1.0.0",
+  "description": "This is a test only okay.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolokay12/test123.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lolokay12/test123/issues"
+  },
+  "homepage": "https://github.com/lolokay12/test123#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
