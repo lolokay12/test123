@@ -18,7 +18,8 @@
   "homepage": "https://github.com/lolokay12/test123#readme",
   "dependencies": {
     "discord.js": "^14.7.1",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "enmap": "^5.9.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
